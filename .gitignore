@@ -1,0 +1,30 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+
+module_11/03_Covid simulator 2020/Soluzione/CoviddiAnalyzer/files/
+
+module_13/04_subs_platform/
+
+module_13/okhttp/chetempofa/Soluzione/OkHttpDay/token.txt
